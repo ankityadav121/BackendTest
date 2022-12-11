@@ -1,0 +1,8 @@
+Q.3:
+A)  Allows to search through our history, this command searches for the query we have provided, in backward direction in history.
+
+B)  ls –a   command list all files and folders (including hidden ones)
+
+C)  I have used it and I am comfortable to work with linux based OS
+
+D)  Node.js which is an open source server environment
